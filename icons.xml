@@ -1,0 +1,12 @@
+<splash density="land-ldpi" src="splash/Icon-36.png" />
+    <splash density="land-mdpi" src="splash/Icon-48.png" />
+    <splash density="land-hdpi" src="splash/Icon-72.png" />
+    <splash density="land-xhdpi" src="splash/Icon-96.png" />
+    <splash density="land-xxhdpi" src="splash/Icon-144.png" />
+    <splash density="land-xxxhdpi" src="splash/Icon-192.png" />
+   <splash density="port-ldpi" src="splash/Icon-36.png" />
+<splash density="port-mdpi" src="splash/Icon-48.png" />
+<splash density="port-hdpi" src="splash/Icon-72.png" />
+<splash density="port-xhdpi" src="splash/Icon-96.png" />
+<splash density="port-xxhdpi" src="splash/Icon-144.png" />
+<splash density="port-xxxhdpi" src="splash/Icon-192.png" />
